@@ -8,12 +8,13 @@ When the temperature goes above 30°C, the relay is turned ON.
 - ESP32
 - DHT22 Temperature Sensor
 - Relay Module
+- Wokwi Simulator
 
 ## Working
 1. DHT22 measures the temperature.
 2. ESP32 reads the temperature value.
-3. If temperature is above 30°C, the relay turns ON.
+3. If the temperature is above 30°C, the relay turns ON.
 4. The relay can be used to control a pump or other device.
 
-## Simulation
-Created and tested using Wokwi ESP32 Simulator.
+## Wokwi Simulation
+https://wokwi.com/projects/476209578809472001

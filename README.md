@@ -17,4 +17,5 @@ When the temperature goes above 30°C, the relay is turned ON.
 4. The relay can be used to control a pump or other device.
 
 ## Wokwi Simulation
-https://wokwi.com/projects/476209578809472001
+https://wokwi.com/projects/476579140283701249
+
